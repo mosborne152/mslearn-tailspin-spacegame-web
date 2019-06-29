@@ -1,4 +1,5 @@
 
+[![Build Status](https://markosborne.visualstudio.com/Sp%20Gm%20-%20web/_apis/build/status/mosborne152.mslearn-tailspin-spacegame-web?branchName=master)](https://markosborne.visualstudio.com/Sp%20Gm%20-%20web/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
